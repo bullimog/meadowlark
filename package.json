@@ -1,0 +1,14 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "A test application",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "GMB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
